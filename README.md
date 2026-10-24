@@ -1,9 +1,6 @@
 # ascii-generator
 
 Convierte una imagen en arte ASCII a color y la guarda como texto (`.txt`) y como imagen (`.png`) dibujada con los propios símbolos.
-
-Proyecto de aprendizaje: está escrito paso a paso con Python y NumPy, buscando entender cada etapa del procesamiento y no solo obtener el resultado.
-
 ## Ejemplo
 
 | Original | ASCII |
